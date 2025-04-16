@@ -10,5 +10,6 @@ Full MM2 client, with trade hacks, sheriff aimbot, Murderer ESP and more to come
 5. Join MM2  and press "R-Shift"
 6. Select what you want and enjoy!
 
+**If the client is not running when R-Shift is pressed, make sure you are in MM2, and are LOGGED IN on FIREFOX (I can not stress this enought it WILL NOT WORK otherwise)**
 ##
 REACH OUT TO CEWICIDE ON DISCORD IF YOU HAVE QUESTIONS OR CONCERNS
